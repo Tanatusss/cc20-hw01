@@ -1,0 +1,35 @@
+*{
+  box-sizing:border-box;
+}
+form {
+  border: 1px solid lightgray;
+  padding: 16px;
+  width: 600px;
+  border-radius: 4px;
+  
+
+}
+input {
+  width: 80%;
+  margin-bottom: 12px;
+  padding: 4px;
+  border: 1px solid lightgray;
+
+}
+ select{
+  width: 80%;
+  margin-bottom: 8px;
+  padding: 4px;
+  border: 1px solid lightgray;
+ 
+ }
+ textarea{
+  width: 80%;
+  margin-bottom: 8px;
+  border: 1px solid lightgray;
+ }
+ 
+ .sub1{
+  width: 12%;
+  margin: 4px;
+ }
